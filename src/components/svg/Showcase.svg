@@ -1,0 +1,6 @@
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Showcase">
+<path id="Bottom" d="M120 105H8V93H120V105Z" fill="#D5E3FD" stroke="#232754" stroke-width="4" stroke-linejoin="round"/>
+<path id="Top" d="M20 93V24M20 24L8 12M20 24H120M8 12V91C8 92.1046 8.89543 93 10 93H118C119.105 93 120 92.1046 120 91V24M8 12H118C119.105 12 120 12.8954 120 14V16V24" stroke="#232754" stroke-width="3" stroke-linejoin="round"/>
+</g>
+</svg>

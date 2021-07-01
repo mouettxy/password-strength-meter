@@ -1,0 +1,13 @@
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="DiamondInShowcase">
+<rect width="128" height="128" fill="white"/>
+<g id="Diamond">
+<path d="M64 92L22 50L34.25 36H64H93.75L106 50L64 92Z" fill="#D5E3FD"/>
+<path d="M64 92L22 50M64 92L106 50M64 92L48.6875 50M64 92L78.875 50M22 50L34.25 36M22 50H106M34.25 36L48.6875 50M34.25 36H64M93.75 36L106 50M93.75 36H64M93.75 36L78.875 50M48.6875 50H78.875M48.6875 50L64 36M78.875 50L64 36" stroke="#232754" stroke-width="3" stroke-linejoin="round"/>
+</g>
+<g id="Box">
+<path id="Vector 2" d="M120 105H8V93H120V105Z" fill="#D5E3FD" stroke="#232754" stroke-width="4" stroke-linejoin="round"/>
+<path id="Vector 4" d="M20 93V24M20 24L8 12M20 24H120M8 12V91C8 92.1046 8.89543 93 10 93H118C119.105 93 120 92.1046 120 91V24M8 12H118C119.105 12 120 12.8954 120 14V16V24" stroke="#232754" stroke-width="3" stroke-linejoin="round"/>
+</g>
+</g>
+</svg>
