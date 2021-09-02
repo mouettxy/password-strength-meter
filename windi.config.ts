@@ -1,11 +1,9 @@
 import { defineConfig } from 'vite-plugin-windicss'
-import { transform } from 'windicss/helpers'
 import plugin from 'windicss/plugin'
 
 export default defineConfig({
   darkMode: 'class',
   plugins: [
-    transform('tailwindcss-elevation')([]),
     plugin(({ addComponents }) => {
       addComponents({
         '.base-input': {
