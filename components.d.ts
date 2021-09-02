@@ -4,6 +4,7 @@
 declare module 'vue' {
   export interface GlobalComponents {
     Animation: typeof import('./src/components/Animation.vue')['default']
+    BaseInput: typeof import('./src/components/BaseInput.vue')['default']
     Box: typeof import('./src/components/svg/Box.svg')['default']
     ContainerBox: typeof import('./src/components/svg/ContainerBox.svg')['default']
     ContainerDoorLeft: typeof import('./src/components/svg/ContainerDoorLeft.svg')['default']
