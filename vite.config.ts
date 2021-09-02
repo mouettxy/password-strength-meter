@@ -6,6 +6,8 @@ import WindiCSS from 'vite-plugin-windicss'
 import VueSvgPlugin from 'vite-plugin-vue-svg'
 
 export default defineConfig({
+  base: '/password-strength-meter/',
+
   resolve: {
     alias: {
       '~/': `${path.resolve(__dirname, 'src')}/`,
