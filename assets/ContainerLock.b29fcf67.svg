@@ -1,0 +1,15 @@
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g id="Container">
+    <g id="Lock">
+      <path id="Vector3" d="M75 85H53V69H75V85Z" fill="white" stroke="#232754" stroke-width="2" stroke-linejoin="round"/>
+      <path id="Vector2" d="M54 79H74" stroke="#A9C1FB" stroke-width="10" stroke-linejoin="round"/>
+      <path id="Vector1" d="M57 69C57 57.5 71 57.5 71 69" stroke="#232754" stroke-width="2" stroke-linejoin="round"/>
+    </g>
+    <g id="LockPlace">
+      <path id="Plate" d="M98 41H30V59H98V41Z" fill="white" stroke="#232754" stroke-width="2"/>
+      <path id="Pill" d="M67 40V60C67 61.6569 65.6569 63 64 63C62.3431 63 61 61.6569 61 60V40C61 38.3431 62.3431 37 64 37C65.6569 37 67 38.3431 67 40Z" fill="white" stroke="#232754" stroke-width="2" stroke-linejoin="round"/>
+      <path id="HandleLeft" d="M37.5 46C37.5 45.1716 36.8284 44.5 36 44.5C35.1716 44.5 34.5 45.1716 34.5 46H37.5ZM34.5 54C34.5 54.8284 35.1716 55.5 36 55.5C36.8284 55.5 37.5 54.8284 37.5 54H34.5ZM34.5 46V54H37.5V46H34.5Z" fill="#232754"/>
+      <path id="HandleRight" d="M94.5 46C94.5 45.1716 93.8284 44.5 93 44.5C92.1716 44.5 91.5 45.1716 91.5 46H94.5ZM91.5 54C91.5 54.8284 92.1716 55.5 93 55.5C93.8284 55.5 94.5 54.8284 94.5 54H91.5ZM91.5 46V54H94.5V46H91.5Z" fill="#232754"/>
+    </g>
+  </g>
+</svg>
